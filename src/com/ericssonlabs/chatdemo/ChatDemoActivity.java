@@ -20,7 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /*
- * try to commit and push: second time
+ * try to commit and push: this is a branch
  */
 
 public class ChatDemoActivity extends Activity {
