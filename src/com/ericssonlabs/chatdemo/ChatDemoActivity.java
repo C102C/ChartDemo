@@ -19,6 +19,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/*
+ * try to commit and push
+ */
+
 public class ChatDemoActivity extends Activity {
 	private Button sendButton = null;
 	private EditText contentEditText = null;
